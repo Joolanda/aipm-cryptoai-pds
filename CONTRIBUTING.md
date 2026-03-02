@@ -1,0 +1,1 @@
+this file is for rules of engagement—it tells other developers how to contribute to your project (e.g., "run tests before you commit," "follow our coding style," etc.)
