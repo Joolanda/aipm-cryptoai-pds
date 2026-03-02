@@ -1,0 +1,22 @@
+### **Meeting Summary: Project Setup & Workflow**
+
+**Date:** March 02, 2026 **Attendees:** Jolanda Tinge, Jaideep Naik **Project:** Crypto Pulse AI
+
+#### **Key Decisions & Outcomes**
+
+1.  **Foundation Complete:** We finalized the initial project scope, business model canvas, and AI ethics documents. These are complete and ready.
+    
+2.  **Workflow Pivot to GitHub:** We've made the decision to use **GitHub as our single source of truth** for the entire project. This includes code, documentation, and all project management activities. Jira will not be used.
+    
+3.  **Agreed Project Management Structure:** We agreed on the following setup within GitHub:
+    
+    -   **Tasks** will be managed as **GitHub Issues**.
+    -   **Sprints** will be organized using **GitHub Milestones**.
+    -   **Progress** will be tracked on a **GitHub Project Board**.
+
+#### **Next Steps**
+
+-   Establish the final, official team repository for the project.
+-   Set up the project management structure by creating the initial milestones and issues in the repository.
+-   Create a dedicated `docs/` folder for all project documentation (e.g., meeting notes, research).
+-   Plan the migration of any initial setup into the main team repository to ensure alignment.
