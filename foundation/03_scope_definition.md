@@ -53,7 +53,7 @@
 
 ### ✅ **Final Day 1 Complete!**
 
-Congratulations, Jolanda! You have successfully laid an incredible foundation for your project. You have:
+We just successfully laid an incredible foundation for our project:
 
 -   ✅ A **viable team** with shared excitement.
 -   ✅ A strong **business foundation** with a clear model.
